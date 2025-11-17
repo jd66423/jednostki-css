@@ -1,0 +1,47 @@
+body
+{
+	background: pink;
+	text-align: center;
+}
+h1
+{
+	font-size: 10vh;
+	padding-bottom: 5vh;
+}
+h2
+{
+	font-size: 8vh;
+	padding: 5vh;
+}
+h3
+{
+	font-size: 6vh;
+	padding: 3vh;
+}
+p
+{
+	padding: 5vh;
+	font-size: 3vh;
+	font-family: Arial;
+}
+table, th, td
+{
+	background: hsl(349 100% 89.9%);
+	font-size: 4vh;
+	border: 5px solid lightblue;
+	text-align: left;
+	
+}
+th
+{
+	text-align: center;
+}
+table
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+ul
+{
+	border: 4px dashed lightblue;
+}
